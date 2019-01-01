@@ -1,0 +1,6 @@
+
+site:
+  title: Nightwalkers.be | We walk again at night.
+  base_url: http://nightwalkers.be
+posts:
+  rss: rss.xml
