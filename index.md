@@ -9,6 +9,3 @@ layout: default.liquid
 
 [{{ post.title }}]({{ post.permalink }})
 {% endfor %}
-
-[Downloads](/dl)
-[Links](/links)
